@@ -1,0 +1,10 @@
+*.nes
+*.txt
+*.deb
+*.wch
+
+mainout.s
+
+!.gitignore
+!ReadMe.txt
+

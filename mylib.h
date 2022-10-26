@@ -95,7 +95,7 @@ uint8_t vmemprep(const void*, void*, uint8_t);
 int16_t sin(uint16_t);
 int16_t cos(uint16_t);
 
-//externs (finish writing or else confusing errors happen)
+//externs (finish writing each line or else confusing errors happen)
 
 //zeropage
 extern uint8_t fcounterTOT;
